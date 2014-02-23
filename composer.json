@@ -1,0 +1,20 @@
+{
+    "name": "nubs/coordinator",
+    "description": "A general purpose geo library.",
+    "keywords": ["geodesy", "geo", "coordinate", "projection", "mercator", "latitude", "longitude", "map"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Spencer Rinehart",
+            "email": "anubis@overthemonkey.com"
+        }
+    ],
+    "require": {
+        "php": "~5.4"
+    },
+    "autoload": {
+      "psr-4": {
+        "Nubs\\Coordinator\\": "src"
+      }
+    }
+}
