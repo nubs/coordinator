@@ -1,6 +1,17 @@
 # Coordinator
 A general purpose geo library for PHP.
 
+[![Build Status](https://travis-ci.org/nubs/coordinator.png)](https://travis-ci.org/nubs/coordinator)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/nubs/coordinator/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/nubs/coordinator/?branch=master)
+[![Code Coverage](https://scrutinizer-ci.com/g/nubs/coordinator/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/nubs/coordinator/?branch=master)
+
+[![Latest Stable Version](https://poser.pugx.org/nubs/coordinator/v/stable.png)](https://packagist.org/packages/nubs/coordinator)
+[![Total Downloads](https://poser.pugx.org/nubs/coordinator/downloads.png)](https://packagist.org/packages/nubs/coordinator)
+[![Latest Unstable Version](https://poser.pugx.org/nubs/coordinator/v/unstable.png)](https://packagist.org/packages/nubs/coordinator)
+[![License](https://poser.pugx.org/nubs/coordinator/license.png)](https://packagist.org/packages/nubs/coordinator)
+
+[![Dependency Status](https://www.versioneye.com/user/projects/534eb363fe0d071c050007af/badge.svg?style=flat)](https://www.versioneye.com/user/projects/534eb363fe0d071c050007af)
+
 ## Dependencies
 This library is only supported for PHP 5.4 and newer.  It was written for use
 in [composer](https://getcomposer.org) and it is recommended that you use
