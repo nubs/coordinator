@@ -1,5 +1,5 @@
 # Coordinator
-A general purpose geo library.
+A general purpose geo library for PHP.
 
 ## Dependencies
 This library is only supported for PHP 5.4 and newer.  It was written for use
