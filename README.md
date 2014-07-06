@@ -12,10 +12,14 @@ A general purpose geo library for PHP.
 
 [![Dependency Status](https://www.versioneye.com/user/projects/534eb363fe0d071c050007af/badge.svg?style=flat)](https://www.versioneye.com/user/projects/534eb363fe0d071c050007af)
 
-## Dependencies
-This library is only supported for PHP 5.4 and newer.  It was written for use
-in [composer](https://getcomposer.org) and it is recommended that you use
-composer to load this library.  
+## Installation
+This package uses [composer](https://getcomposer.org) so you can just add
+`nubs/coordinator` as a dependency to your `composer.json` file or execute the
+following command:
+
+```bash
+composer require nubs/coordinator
+```
 
 ## Usage
 
