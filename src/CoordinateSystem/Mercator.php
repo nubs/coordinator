@@ -51,7 +51,7 @@ class Mercator
     /**
      * Compute the Gudermannian of the given number.
      *
-     * @see http://en.wikipedia.org/wiki/Gudermannian
+     * @see http://en.wikipedia.org/wiki/Gudermannian_function
      *
      * Useful for computing the latitude in radians when given the latitudinal distance from the equator.
      *
