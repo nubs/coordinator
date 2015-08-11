@@ -102,4 +102,5 @@ echo (string)$coordinate;
 ```
 
 ## License
-Coordinator is licensed under the MIT license.
+Coordinator is licensed under the MIT license.  See [LICENSE](LICENSE) for the
+full license text.
