@@ -64,7 +64,8 @@ $coordinate = $coordinateFactory->createFromDegrees(
 ```
 
 #### Accessing Coordinate Data
-The latitude and longitude in radians can be pulled back out of the `Coordinate`.
+The latitude and longitude in radians can be pulled back out of the
+`Coordinate`.
 ```php
 echo "Latitude: {$coordinate->latitudeInRadians()}\n";
 echo "Longitude: {$coordinate->longitudeInRadians()}\n";
